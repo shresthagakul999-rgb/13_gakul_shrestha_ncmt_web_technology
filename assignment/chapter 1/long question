@@ -1,0 +1,19 @@
+QN 1
+Client:The client is usually a web browser (Chrome, Firefox, etc.). It sends requests (HTTP/HTTPS) to access web resources and displays the response to the user.
+Server:The server is a powerful computer that stores web pages, applications, and databases. It processes client requests and sends back appropriate responses (HTML pages, data, images, etc.).
+Communication:Communication happens over the internet using HTTP/HTTPS protocols. The client always initiates the request; the server responds.
+
+QN 2
+Email is an Internet service used to send and receive electronic messages. It allows users to exchange text, documents, images, and other files quickly across the world. Email works even if the receiver is not online at the same time and is widely used for personal, educational, and business communication.
+FTP, or File Transfer Protocol, is used for transferring files between a computer and a remote server over the Internet. It helps users upload files to a server or download files from it, especially when dealing with large amounts of data. FTP is commonly used for website management, software distribution, and data backup.
+VoIP, or Voice over Internet Protocol, is an Internet service that enables voice communication over the Internet instead of traditional telephone networks. It converts voice signals into digital data packets and transmits them in real time. VoIP is used for voice calls, video calls, and online meetings through applications such as Skype, Zoom, and WhatsApp.
+
+QN 3 
+The Internet is a global system of interconnected networks (private, public, academic, and government). It functions as a single entity because these diverse networks use standardized protocols, specifically TCP/IP, to exchange data seamlessly across different hardware and borders.
+Packet switching is the method of transmitting data across these networks.
+It follows four main steps:
+Decomposition: Data is broken down into small units called packets. Each packet contains a portion of the data plus a header (containing the sender’s IP, receiver’s IP, and the packet's sequence number).
+Routing: Packets are sent into the network independently. Routers examine the destination address and forward each packet along the most efficient path. Because paths change based on congestion, different packets from the same message may take different routes.
+Efficiency: Unlike circuit switching, no dedicated line is required. This allows multiple users to share the same physical cables simultaneously, maximizing bandwidth.
+Reassembly: At the destination, the receiving device uses the sequence numbers to reorder the packets. If any packet is missing or corrupted, a request is sent to retransmit only that specific packet.
+
