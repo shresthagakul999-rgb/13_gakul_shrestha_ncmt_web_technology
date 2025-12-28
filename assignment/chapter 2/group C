@@ -1,0 +1,36 @@
+QN 1
+ The testing phase is a critical step in the web development lifecycle. It ensures that the website works correctly, is secure, and provides a good user experience. Skipping testing to save time or money can lead to serious consequences.
+Potential Risks:
+Security Risks: E-commerce websites handle sensitive information such as customer data, payment details, and login credentials. Without testing, vulnerabilities like SQL injection, cross-site scripting, or weak password policies may go undetected, making the website a target for hackers.
+Functionality Issues: Core features like product search, shopping cart, payment gateway, and checkout may malfunction. For example, a customer may be able to add items to the cart but fail to complete payment, causing revenue loss and dissatisfaction.
+Compatibility Problems: Websites must work on various browsers (Chrome, Firefox, Safari), devices (desktop, tablet, mobile), and screen sizes. Skipping testing can result in distorted layouts, broken menus, or features that don’t function on some devices.
+Performance and Usability Concerns: Slow loading pages, broken links, or incorrect redirects can frustrate users, increase bounce rates, and reduce trust.
+Financial and Reputational Loss: Post-launch errors are expensive to fix. Customers encountering problems may leave negative reviews, damaging the company’s reputation.
+Conclusion: Testing is not just a phase but a safeguard for reliability, security, and usability. Skipping it may save money initially but can result in lost revenue, poor user experience, and long-term damage. For an e-commerce website, testing is essential for trust and success.
+  
+QN 2
+In web development, following the proper sequence of phases is crucial. Jumping straight to coding without planning, designing, or getting client approval often leads to wasted effort and rework.
+What went wrong:
+No Planning or Sitemap: The developer did not organize the website structure or define page hierarchy. This leads to confusion in navigation and content placement.
+No Design Prototype/Wireframe: Without a visual mockup, the client could not visualize the layout, colors, or functionality. Midway rejection occurs because the design does not match client expectations.
+Poor Communication: Client requirements were not fully clarified or documented. Misunderstandings occur when the client’s vision differs from the developer’s interpretation.
+How it should have been handled:
+Information Gathering: Understand project goals, content requirements, target audience, and client expectations.
+Planning: Prepare a sitemap and define the hierarchy of pages.
+Design Prototype/Wireframe: Create visual representations of layouts and obtain client approval before coding.
+Client Feedback: Revise designs based on client input, ensuring alignment with expectations.
+Approval Before Development: Only begin coding once the client approves the sitemap and design.
+Conclusion:
+Skipping planning and design phases causes wasted time, cost escalation, and dissatisfaction. Following the correct sequence ensures smooth development, saves resources, and increases client satisfaction.
+  
+QN 3
+  Even after a successful launch, a website requires ongoing updates and maintenance. Neglecting this phase can make a website irrelevant, as seen in the university example where students stopped visiting due to outdated exam schedules.
+Phase neglected: Maintenance Phase
+Activities in Maintenance Phase:
+Content Updates: Regularly update information such as exam schedules, announcements, events, and academic resources. Outdated content can lead to user disengagement.
+Bug Fixing: Correct errors in forms, links, scripts, or pages that may arise after launch.
+Performance Monitoring: Ensure website speed, page load times, and server health remain optimal.
+Security Updates: Install patches, update software, and monitor for vulnerabilities to protect data and prevent attacks.
+User Feedback and Improvement: Collect feedback from students, faculty, and staff to enhance usability and features.
+Feature Enhancement: Add new functionalities such as notifications, online forms, or calendars to meet evolving user needs.
+Conclusion: Conclusion Concluniversity website failed because maintenance was neglected.is never truly “finished”; continuous updates and improvements are necessary to remain relevant, secure, and user-friendly. Proper maintenance ensures the website continues to serve its audience effectively.
