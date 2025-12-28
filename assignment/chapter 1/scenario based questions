@@ -1,0 +1,16 @@
+QN 1
+No, I would not agree with the advice to use a dynamic website.
+In this scenario, the startup wants a website that displays the same information to all visitors and requires very low maintenance cost. A static website is the better choice because static websites consist of fixed web pages that do not change based on user interaction. They are simple to design, faster to load, more secure, and cheaper to host and maintain since they do not require databases or server-side scripting.
+Dynamic websites are useful when content needs to change frequently, is personalized for users, or depends on databases (such as login systems, dashboards, or e-commerce sites). These features increase complexity, development effort, and maintenance cost, which is unnecessary for the startup’s requirements.
+Therefore, a static website is more suitable for the startup, as it meets their needs while keeping costs and maintenance to a minimum.
+
+QN 2
+The issue is not with the Internet connection or Google’s web server, because the website loads successfully when the IP address (142.250.190.46) is entered directly. This clearly shows that the server is reachable and the network connection is working.
+The problem occurs when the user types www.google.com, which requires domain name resolution. Before connecting to a website, the browser must translate the domain name into an IP address using the Domain Name System (DNS). In this case, the DNS lookup fails, so the browser cannot find the server and shows a “Server Not Found” error.
+DNS is a distributed system that acts like the Internet’s address book, converting easy-to-remember domain names into numerical IP addresses that computers use for communication. If the DNS server is down, unreachable, or incorrectly configured, the domain name cannot be resolved even though the website itself is online.
+Therefore, the failure is in the DNS service, which prevented the browser from resolving the domain name to its IP address.
+
+QN 3
+The corporation should implement an Extranet. An extranet is a private network that allows controlled access to specific external users, such as suppliers, while keeping the information secure from the general public. It extends part of the company’s intranet to authorized partners, providing secure login, restricted permissions, and encrypted connections.
+An Intranet is limited to internal employees only, so external suppliers would not be able to access the inventory data. The Internet, however, is public, which would expose sensitive information to anyone online, making it unsuitable for confidential data.
+By using an extranet, the corporation can ensure that only the intended suppliers have access to the inventory information. This setup allows efficient collaboration, real-time updates, and secure sharing, while keeping sensitive data protected from unauthorized users. Therefore, an extranet is the most appropriate network type for this requirement.
