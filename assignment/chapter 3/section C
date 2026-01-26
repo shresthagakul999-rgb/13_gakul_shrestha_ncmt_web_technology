@@ -1,6 +1,15 @@
 QN 1
+For a university website, I would definitely choose the Hierarchical (Tree) Structural Model. Since a university has to manage hundreds of pages for different audiences (students, staff, alumni), a tree structure is the most logical way to organize it.
+Justification: This model allows for a clear Top-Down flow. You start with a broad Homepage and then branch out into main categories like Admissions or Departments. This keeps the site from becoming a mess and lets users "drill down" to find specific info, like a specific course or a faculty contact.
+Rough Diagram: At the top is the Home Page. From there, it branches into four main pillars: [Admissions], [Academic Departments], [Alumni], and [News/Events]. Under Admissions, you’d have sub-pages for Undergraduate and Graduate. Under Departments, you’d have Science, Arts, and Engineering. This branching continues until every page has a logical home.
 
 QN 2
+The Kiss principle is all about making a design as straightforward as possible and avoiding unnecessary complexity. In this scenario, hiding the navigation menu behind a small icon (like a hamburger menu) on a desktop screen is a major design failure.
+The Analysis: Desktop users have large screens, so there is no reason to hide the most important part of the site—the navigation. By hiding it, the designer is making the user work harder than they need to. Instead of seeing the options immediately, the user has to search for an icon, click it, and then look for their link. This creates "Cognitive Friction." To follow the KISS principle here, the menu should be visible and laid out clearly across the top or side of the screen so that the user doesn't have to guess where it is.
 
 QN 3
-
+The URL www.shop.com/prod?id=55&cat=9 is what we call a dynamic URL.
+Why it's bad: For a user, it's impossible to tell what the page contains just by looking at the link. It looks like a random string of numbers which can feel untrustworthy. For Search Engines (SEO), it’s a missed opportunity. Google’s crawlers look for keywords in the URL to decide what a page is about. This URL has no keywords, so it won’t rank well for searches like "blue running shoes."
+Proposed Better Structure: I would change it to use descriptive Page Slugs like this:
+www.shop.com/footwear/blue-running-shoes
+Why this works: This version uses a hierarchy (/footwear/) and specific keywords (blue-running-shoes). It’s much easier for a human to read, and it tells search engines exactly what the product is, which helps the site show up in search results.
