@@ -1,8 +1,12 @@
 QN 1
+Information Architecture is the practice of organizing, structuring, and labeling content in an effective and sustainable way. Its goal is to help users find information and complete tasks easily by creating a logical flow for the website’s navigation and data.
 
 QN 2
+A wireframe is a simple visual guide or a blueprint of a webpage. It shows the layout of where things like buttons, images, and text will go, but it doesn't include any actual design elements like colors or specific fonts.
 
 QN 3
+Cognitive Friction occurs when a user interface performs in a way that is different from the user’s expectations, forcing them to stop and think. High cognitive friction leads to frustration and a poor user experience because the interface is not intuitive or easy to use.
 
 QN 4
+URL slugs should use hyphens because search engines (like Google) treat hyphens as word separators, making it easier to index keywords. Underscores are often treated as part of the word itself (e.g., web_design might be read as webdesign), which can negatively impact SEO and readability.
 
