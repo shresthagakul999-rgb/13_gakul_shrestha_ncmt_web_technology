@@ -1,6 +1,15 @@
 QN 1
+The Hierarchical (Tree) structure is organized like a map with a main homepage that branches out into different categories and sub-categories. This is best for large sites, like an e-commerce store (e.g., Home- Electronics - Laptops).
+The Linear (Sequential) structure, on the other hand, moves the user in a straight line from one page to the next. It’s best for processes that need to happen in a specific order, such as a checkout page or an online registration form.
 
 QN 2
+The Three-Click Rule is a rules// suggestion that a user should be able to find any piece of information on a site within three clicks. It is important for User Experience because it keeps the navigation simple. If it takes too many clicks to find something, users are more likely to get annoyed and leave the site.
 
 QN 3
+Before coding or designing, these tools help define the website's backbone:
+
+Card Sorting: This is a UX research technique where users organize topics into groups that make sense to them. This helps designers understand the user's mental model, ensuring the website navigation matches how real people think.
+Flowcharts: These provide a visual map of the user journey. They show how a user moves from one page to another and what happens when they click a button (e.g., "If logged in, go to Dashboard; if not, go to Login"). This prevents "dead ends" in the design.
+
+
 
