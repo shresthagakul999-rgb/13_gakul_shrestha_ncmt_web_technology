@@ -1,5 +1,4 @@
-link    https://shresthagakul999-rgb.github.io/shresthagakul.github.io/
-https://shresthagakul999-rgb.github.io/my-portfolio/
+link    https://shresthagakul999-rgb.github.io/my-portfolio/
 
 codebase    https://github.com/shresthagakul999-rgb/my-portfolio.git
 
